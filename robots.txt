@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ealedine.github.io/sitemap
+Sitemap: https://ealedine.github.io/app/sitemap
+Sitemap: https://ealedine.github.io/assets/sitemap
+Sitemap: https://ealedine.github.io/css/sitemap
+Sitemap: https://ealedine.github.io/includes/sitemap
+Sitemap: https://ealedine.github.io/item/sitemap
+Sitemap: https://ealedine.github.io/src/sitemap
